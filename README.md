@@ -1,6 +1,6 @@
 
 ### google api authkey
-AIzaSyAQpOr4y8Guai4M1Jl78PYJWSZnsxpEoIQ
+see email
 
 ### main page
 ![Screenshot 2023-06-14 154250](https://github.com/bearadamsj/vue_googlemaps/assets/48884832/dbf2c03c-e91f-480f-93a1-0272af517763)
