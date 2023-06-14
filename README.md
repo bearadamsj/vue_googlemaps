@@ -2,6 +2,10 @@
 ### google api authkey
 see email
 
+### use google api key in main.js
+![image](https://github.com/bearadamsj/vue_googlemaps/assets/48884832/2a67516a-c788-49b4-9c99-6bb8cea2906a)
+
+
 ### main page
 ![Screenshot 2023-06-14 154250](https://github.com/bearadamsj/vue_googlemaps/assets/48884832/dbf2c03c-e91f-480f-93a1-0272af517763)
 
