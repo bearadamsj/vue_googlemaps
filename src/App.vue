@@ -9,7 +9,7 @@
 </template>
 
 <script>
-// Google maps API key: AIzaSyAQpOr4y8Guai4M1Jl78PYJWSZnsxpEoIQ
+
 import AddGoogleMap from './components/GoogleMaps/index.vue'
 
 export default {

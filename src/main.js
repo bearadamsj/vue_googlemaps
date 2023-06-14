@@ -13,7 +13,7 @@ import locale from 'element-ui/lib/locale/lang/en'
 import * as API from '@/api'
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
-// Google maps API key: AIzaSyAQpOr4y8Guai4M1Jl78PYJWSZnsxpEoIQ
+
 Vue.config.productionTip = false
 //element ui plugin
 Vue.use(ElementUI, {locale})
@@ -21,7 +21,8 @@ Vue.use(ElementUI, {locale})
 //google maps plugin
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "AIzaSyAQpOr4y8Guai4M1Jl78PYJWSZnsxpEoIQ",
+    //use google api key here
+    key: "",
     libraries: "places"
   }
 });
